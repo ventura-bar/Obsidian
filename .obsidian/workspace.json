@@ -11,10 +11,14 @@
             "id": "4c783cbe877d5ebf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Study/Colman 2026/Probability/Lesson 1/Lesson 1 - 6.11 - Sample space.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lesson 1 - 6.11 - Sample space"
             }
           }
         ]
@@ -191,8 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b94cbd0f6d60087b",
+  "active": "4c783cbe877d5ebf",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20251108210650.png",
+    "Study/Colman 2026/Probability/Lesson 2/Lesson 2 - 6.11 - classic method.md",
     "Study/Colman 2026/Probability/Lesson 1/Lesson 1 - 6.11 - Sample space.md",
     "Study/Colman 2026/Algorithms/Lesson 1 - 14.11 - Graphs.md",
     "Welcome.md",
@@ -214,7 +220,6 @@
     "Attachments",
     "Excalidraw/Drawing 2025-11-10 14.40.33.excalidraw.md",
     "Excalidraw/Drawing 2025-11-10 20.44.44.excalidraw.md",
-    "Study/Colman 2026/Probability/Lesson 2/Lesson 2 - 6.11 - classic method.md",
     "Untitled Diagram.svg",
     "Untitled Diagram 1.svg",
     "Untitled.base",
@@ -224,7 +229,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw",
-    "Study/Colman 2026/Probability/Lesson 1/Pasted image 20251108210650.png",
     "Study/Colman 2026/Probability/Lesson 2",
     "Study/Colman 2026/Probability/Lesson 1",
     "git/Study/Colman 2026/Algorithms/~$מצגת 1 - מבוא לגרפים ואלגוריתם BFS.ppt",
